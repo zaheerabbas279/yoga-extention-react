@@ -1,0 +1,28 @@
+._buttonclass {
+  border-radius: 50px !important;
+}
+
+.poseimg {
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+}
+
+.input_tag {
+  /* width: 50%; */
+  border: 2px solid #f3f3f3;
+  height: 40px;
+  outline: none;
+}
+
+.textarea_ {
+  height: 100px;
+  border: 2px solid #f3f3f3;
+  outline: none;
+}
+
+.textarea_desc {
+  height: 150px;
+  border: 2px solid #f3f3f3;
+  outline: none;
+}
